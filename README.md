@@ -5,3 +5,5 @@ selenium
 time
 pyautogui
 pynput
+
+chrome driver is also required 
