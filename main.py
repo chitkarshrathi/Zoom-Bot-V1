@@ -16,7 +16,7 @@ link.click()
 
 time.sleep(5)
 
-#Please put in Meeting ID inside the 2 upper commas. eg - "11 digit meeting ID"
+#Input the Meeting ID inside the 2 commas. eg - "11 digit meeting ID"
 keyboard.write("")
 
 pyautogui.press("enter")
@@ -29,7 +29,7 @@ pyautogui.press("enter")
 
 time.sleep(10)
 
-#Please put in the meeting password inside the 2 upper commas. eg - "pass123"
+#Inputthe meeting password inside the 2 upper commas. eg - "pass123"
 keyboard.write("")
 
 time.sleep(3)
